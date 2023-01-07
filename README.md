@@ -10,7 +10,7 @@
 
 😄 Feel free to check out my projects, and have a nice day!
 <br><br>
-
-![](giphy.gif)
-
-<img src="giphy.gif" width="250" height="250"/>
+  
+  
+  
+                    <img src="giphy.gif" width="250" height="250"/>
