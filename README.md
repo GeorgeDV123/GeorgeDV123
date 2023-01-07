@@ -11,4 +11,4 @@
 😄 Feel free to check out my projects, and have a nice day!
 <br>
 
-<img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" alt="Gif" width="150" height="150">
+![](giphy.gif)
