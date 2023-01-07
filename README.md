@@ -6,7 +6,7 @@
 
 🌱 Currently learning React Native
 
-⚡ Fun fact: Before programing, I used to work as a chef 
+⚡ Fun fact: before programing, I used to work as a chef 
 
 😄 Feel free to check out my projects, and have a nice day!
 <br>
