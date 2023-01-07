@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋 i'm George<br>
 
-<!--
-**GeorgeDV123/GeorgeDV123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Qualified front-end developer 
 
-Here are some ideas to get you started:
+📫 Reach me at georgedevries123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning React Native
+
+⚡ Fun fact: Before programing, I used to work as a chef 
+
+😄 Feel free to check out my projects, and have a nice day!
+<br>
+
+
+## Languages / Tools:
