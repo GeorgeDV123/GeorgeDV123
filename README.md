@@ -9,6 +9,6 @@
 ⚡ Fun fact: before programing, I used to work as a chef 
 
 😄 Feel free to check out my projects, and have a nice day!
-<br>
+<br><br>
 
 ![](giphy.gif)
