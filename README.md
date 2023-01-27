@@ -4,7 +4,7 @@
 
    📫 Reach me at georgedevries123@gmail.com
 
-   🌱 Currently learning React Native
+   🌱 Currently learning React Native and Flutter
 
    ⚡ Fun fact: before programing, I used to work as a chef 
 
